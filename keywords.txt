@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+OLED    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+OLED_Init  KEYWORD2
+OLED  KEYWORD2
+OLED_Fill  KEYWORD2
+OLED_CLS  KEYWORD2
+OLED_6x8Str  KEYWORD2
+OLED_8x16Str  KEYWORD2
+OLED_WrDat  KEYWORD2
+OLED_WrCmd  KEYWORD2
+OLED_SetPos  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+XLevelL  LITERAL1
+XLevelH  LITERAL1
+XLevel  LITERAL1
+Max_Column  LITERAL1
+Max_Row  LITERAL1
+Brightness  LITERAL1
+X_WIDTH  LITERAL1
+Y_WIDTH  LITERAL1

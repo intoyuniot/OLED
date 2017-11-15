@@ -1,0 +1,17 @@
+{
+    "name": "OLED",
+    "version": "1.0.0",
+    "keywords": "OLED",
+    "description": "0.96寸OLED显示屏驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/OLED.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
